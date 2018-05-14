@@ -1,0 +1,10 @@
+intro: "My Project"
+projects:
+  - project:
+    title: Manager Coach
+    link: "#hook"
+    tagline: "Manager location of Coach and buy and tranfer ticket online"
+  - project:
+    title: Chat App
+    link: "#"
+    tagline: "App chat realtime. Chat Text, Video call"

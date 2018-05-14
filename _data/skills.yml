@@ -1,0 +1,22 @@
+- skill:
+  name: java
+  level: 70%
+- skill:
+  name: Javascript
+  level: 80%
+- skill:
+  name: Reactjs
+  level: 80%
+- skill:
+  name: HTML5 & CSS3
+  level: 90%
+- skill:
+  name: Nodejs
+  level: 70%
+- skill:
+  name: Sketch & Photoshop
+  level: 50%
+- skill:
+  name: Mongodb, Redis, MySQl, SQLServer, Firebase
+  level: 80%
+
