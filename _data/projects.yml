@@ -8,3 +8,12 @@ projects:
     title: Chat App
     link: "#"
     tagline: "App chat realtime. Chat Text, Video call"
+  - project:
+    title: Smart Light
+    link: "#"
+    tagline: "Mobile App for study management, online education"
+  - project:
+    title: Invite Trips
+    link: "#"
+    tagline: "Mobile and Website app for travel"
+  

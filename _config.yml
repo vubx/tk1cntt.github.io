@@ -1,6 +1,7 @@
 # Site Settings
 title: Thanh PC Resume
 description: Thanh PC Resume
+
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -8,7 +9,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-style: styles-3
+#style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
@@ -17,17 +18,15 @@ style: styles-3
 #Profile information
 name: Pham Van Thanh
 tagline: Full Stack Developer
-pic: https://github.com/thanhpcc96.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm 22 year old, I'm a developer. I would love to learn about infomation technology
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I'm 22 years old, I'm a developer. I would love to learn about infomation technology
 <br />
 You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 #sidebar links
 email: thanhpv@agiletech.vn
 phone: (+84)1292208575
-website: agiletech.vn #do not add http://
-linkedin: thanhpcc96
+website: agiletech.vn #do not add http:///
 github: thanhpcc96
-twitter: '@thanhpcc96'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
