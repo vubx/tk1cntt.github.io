@@ -3,7 +3,10 @@
   level: 70%
 - skill:
   name: Javascript
-  level: 80%
+  level: 90%
+- skill:
+  name: React/React-Native
+  level: 90%
 - skill:
   name: Reactjs
   level: 80%
@@ -12,7 +15,10 @@
   level: 90%
 - skill:
   name: Nodejs
-  level: 70%
+  level: 80%
+- skill:
+  name: DevOps Docker, VW
+  level: 60%
 - skill:
   name: Sketch & Photoshop
   level: 50%
