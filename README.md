@@ -6,4 +6,4 @@
 
 ![Settings](setting.png)
 
-#### Access at https://agiletechvn.github.io/your-cv
+#### Access at https://agiletechvn.github.io/thanhpcc-cv/
