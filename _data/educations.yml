@@ -1,8 +1,19 @@
 - education:
-  degree: IT engineer
+  degree: IT Engineer
   major: Information Technology
-  university: Ha Noi Open University
-  time: 2014 - 2018
-  details: "I started learning in 2014 and i complete in 2017
-  <br/ >
--GPA: 10/10 - Mobile app development"
+  university: Education and Technology University
+  time: 2003 - 2007
+- education:
+  degree: Aptech Certified
+  university: Aprotrain Aptech
+  time: 2005
+  details: "Information Technology"
+- education:
+  degree: Oracle Certified Associate Java SE 6
+  university: Oracle
+  time: 2018
+  details: "Oracle Database Administrator 11g"
+- education:
+  degree: Japanese-Language Proficiency Test
+  time: 2018
+  details: "N2"

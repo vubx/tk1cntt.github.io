@@ -1,7 +1,6 @@
 # Site Settings
-title: Thanh PC Resume
-description: Thanh PC Resume
-
+title: Tran Anh Tuan Resume
+description: Tran Anh Tuan Resume
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -19,13 +18,10 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Tran Anh Tuan
 tagline: Solution Architecture
 pic: https://tk1cntt.github.io/profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm 22 years old, I'm a developer. I would love to learn about infomation technology
-<br />
-You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
+summary: "I'm a developer. I would love to learn about infomation technology."
 #sidebar links
 email: tk1cntt@gmail.com
 phone: +84989896118
-website: tk1cntt.github.io #do not add http://
 github: tk1cntt
 twitter: '@tk1cntt'
 #Update all the sections by editing the files inside _data folder.
