@@ -1,28 +1,45 @@
 - skill:
-  name: java
-  level: 70%
+  name: C++
+  level: 60%
 - skill:
-  name: Javascript
+  name: Java
+  level: 99%
+- skill:
+  name: Spring Framework
   level: 90%
 - skill:
-  name: React/React-Native
-  level: 90%
+  name: Android
+  level: 99%
 - skill:
-  name: Reactjs
-  level: 80%
-- skill:
-  name: HTML5 & CSS3
-  level: 90%
+  name: Javascript/CSS/HTML
+  level: 95%
 - skill:
   name: Nodejs
   level: 90%
 - skill:
-  name: DevOps Docker, VW
+  name: ReactJS/React-Native
+  level: 95%
+- skill:
+  name: TypeScript
+  level: 95%
+- skill:
+  name: C++
   level: 60%
 - skill:
-  name: Sketch & Photoshop
-  level: 50%
+  name: Python
+  level: 70%
 - skill:
-  name: Mongodb, Redis, MySQl, SQLServer, Firebase
+  name: Ruby
+  level: 65%
+- skill:
+  name: PHP
   level: 80%
-
+- skill:
+  name: Amazon Web Services/Cloud Computing Services
+  level: 90%
+- skill:
+  name: Linux Administrator
+  level: 90%
+- skill:
+  name: MySQL, SQLServer
+  level: 80%
