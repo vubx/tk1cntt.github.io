@@ -16,24 +16,25 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Pham Van Thanh
-tagline: Full Stack Developer
-pic: https://agiletechvn.github.io/wp-content/uploads/2017/12/Thanh-Pham-350x350.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+name: Tran Anh Tuan
+tagline: Solution Architecture
+pic: https://tk1cntt.github.io/profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm 22 years old, I'm a developer. I would love to learn about infomation technology
 <br />
 You can view more about <a href='http://agiletech.vn' target='_blank'>Agiletech Viet Nam</a>."
 #sidebar links
-email: thanhpv@agiletech.vn
-phone: (+84)1292208575
-website: agiletech.vn #do not add http:///
-github: thanhpcc96
+email: tk1cntt@gmail.com
+phone: +84989896118
+website: tk1cntt.github.io #do not add http://
+github: tk1cntt
+twitter: '@tk1cntt'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 #education_in_main: True
 
 # Tracker
-analytics: UA-119187154-1
+analytics: UA-47900049-2
 
 # Build settings
 encoding: "utf-8"
