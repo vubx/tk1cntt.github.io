@@ -1,19 +1,14 @@
 intro: "My Project"
 projects:
   - project:
-    title: Manager Coach
-    link: "#hook"
-    tagline: "Manager location of Coach and buy and tranfer ticket online"
+    title: LandExp
+    link: "http://tinvang.com.vn"
+    tagline: "Frontend: reactjs, css, html, nodejs. Backend: Spring framework. Hosting at AWS"
   - project:
-    title: Chat App
-    link: "#"
-    tagline: "App chat realtime. Chat Text, Video call"
+    title: Kanji Master
+    link: "https://github.com/KantanGroup/KanjiMaster/tree/lite-version"
+    tagline: "ReactNative app. For learning Japanese"
   - project:
-    title: Smart Light
-    link: "#"
-    tagline: "Mobile App for study management, online education"
-  - project:
-    title: Invite Trips
-    link: "#"
-    tagline: "Mobile and Website app for travel"
-  
+    title: Top app trends
+    link: "https://github.com/KantanGroup/zuzu-sites/tree/topapptrends"
+    tagline: "Frontend: reactjs, css, html, nodejs. Backend: Spring framework, Apache Solr. Top app trends in the world."
