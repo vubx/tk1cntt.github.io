@@ -1,12 +1,9 @@
 - skill:
-  name: C++
-  level: 60%
-- skill:
   name: Java
   level: 99%
 - skill:
   name: Spring Framework
-  level: 90%
+  level: 99%
 - skill:
   name: Android
   level: 99%
@@ -15,7 +12,7 @@
   level: 95%
 - skill:
   name: Nodejs
-  level: 90%
+  level: 95%
 - skill:
   name: ReactJS/React-Native
   level: 95%
@@ -24,7 +21,7 @@
   level: 95%
 - skill:
   name: C++
-  level: 60%
+  level: 65%
 - skill:
   name: Python
   level: 70%
@@ -35,7 +32,7 @@
   name: PHP
   level: 80%
 - skill:
-  name: Amazon Web Services/Cloud Computing Services
+  name: AWS/Cloud Computing Services
   level: 90%
 - skill:
   name: Linux Administrator

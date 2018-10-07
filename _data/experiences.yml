@@ -1,9 +1,59 @@
 - experience:
-  role: Mobile Developer
-  time: 2017 - Present
-  company: Agile Tech Viet Nam
+  role: Solution Architecture
+  time: 2016 - Present
+  company: FPT Software
+  details: "
+Responsible for the development of the technology solutions and mapping the
+business requirements to systems/technical requirements to ensure they are in line with the enterprise architectural plan.
+• Review, interpret and respond to detailed business requirements specifications to ensure alignment between customer expectations and current or future capability
+• Provide input to the strategic direction of technology investments to assist in the development of the enterprise architecture
+• Within the agreed enterprise architecture, define and design technology solutions to assist the business in meeting their business objectives
+• Develop, test and implement technology solutions and report on delivery commitments to ensure solutions are implemented as expected
+  "
 - experience:
-  role: Database Developer
-  time: 01/2017 - 08/2017
-  company: Bravo Viet Nam
-  details: "This is my part time job when I'm learing in university."
+  role: Project Manager
+  time: 2012 - 2015
+  company: FPT Software
+  details: "
+• Planning for project preparation, deploying phases
+• Managing total projects and keep the projects on process and quality
+• Ensuring project handover an acceptance stages to meet deadline and quality
+• Review and evaluation of the results achieved
+• Identifying and managing projects’ risky situations
+• Managing, Coaching and Developing project teammembers
+• Co­ordinating with customers, partners in projects
+  "
+- experience:
+  role: Developer
+  time: 2008 - 2012
+  company: Bluesear Viet Nam
+  details: "
+• Web design based on Struts Framework, Spring, iBatis, Hibernate
+- SMS Education Project
+- Content Management for SkyMusik.
+- Wap portal
+- Report
+• System Enterprise using Spring Framework with generate source by Spring Roo and many advance technology by Spring Source
+• Understanding the basics of Oracle database management.
+• Deploying services on the webservice: JAX-WS and JAX-RPC
+• Build client to automatically send information to partners via HTTP, SOAP, ....
+• Building Monitor system monitoring and warning errors for GW
+• Develop web site statistics, data entry application for SMS services
+• SMS deployment scenarios.
+• Programming J2ME applications on mobile. Build framework for mobile
+- Football Guide
+- Karaoke on Mobile
+- Color SMS
+- Millionaire Mobile
+- .....
+• Applications programming through SMS on mobile.
+• Develop internal PBX systems based on Asterisk.
+• Building SMS Gateway system to deploy services on the value of 8x77, 6x66, 6x04, 9x91
+• Building systems based on Java SMPP SMS GW http://opensmpp.logica.com Library
+• Deploying applications built for partners
+
+• Experienced programmers to use Devexpress Control build application:
+- Manager Hotel System
+• Experienced programmers to use Spring.NET, NHibernate:
+- Website http://doden.giaitri24.vn
+  "
