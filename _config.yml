@@ -1,6 +1,6 @@
 # Site Settings
-title: Tran Anh Tuan Resume
-description: Tran Anh Tuan Resume
+title: Bui Xuan Vu Resume
+description: Bui Xuan Vu Resume
 url: 'http://agiletech.vn'
 baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -15,15 +15,15 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 #Profile information
-name: Tran Anh Tuan
-tagline: Solution Architecture
+name: Bui Xuan Vu
+tagline: Mobile Developer
 pic: https://tk1cntt.github.io/profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "I'm a developer. I would love to learn about infomation technology."
+summary: "I'm a developer. I want everything to be simple."
 #sidebar links
-email: tk1cntt@gmail.com
-phone: +84989896118
-github: tk1cntt
-twitter: '@tk1cntt'
+email: xuanvu.bui@gmail.com
+phone: +84965080111
+github: vubx
+twitter: '@XuanVuBui'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
