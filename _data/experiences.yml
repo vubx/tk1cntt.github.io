@@ -4,8 +4,8 @@
   company: Spectos Asia
   details: "
 • Create and develop mobile application as required by the company.<br/>
-• Developing application for android devices using Android SDK to conduct the surveys offline and will be synchronized as soon as the internet is online again.<br/>
-• Developing application for mobile using React Native. Using the application, users can create reports on the places they have been to.<br/>
+• Developing application for android devices to conduct the surveys offline and the feedbacks will be synchronized as soon as the internet is online again.<br/>
+• Developing application for mobile using React Native. Using the application, users can create comments on the map, on the other hand the user can also give an evaluation about that comments.<br/>
 • Use Firebase service for messaging and crash reporting.</br>
 • Deploy application for users.<br/>
   "
