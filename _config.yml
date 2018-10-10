@@ -2,7 +2,7 @@
 title: Tran Anh Tuan Resume
 description: Tran Anh Tuan Resume
 url: 'http://agiletech.vn'
-baseurl: 'https://vubx.github.io/' #change it according to your repository name
+baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -13,16 +13,17 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-5
 #style: styles-6
 
+
 #Profile information
-name: Bui Xuan Vu
-tagline: Senior Android Developer
+name: Tran Anh Tuan
+tagline: Solution Architecture
 pic: https://tk1cntt.github.io/profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm a developer. I would love to learn about infomation technology."
 #sidebar links
-email: xuanvu.bui@gmail.com
-phone: +84965080111
-github: vubx
-twitter: '@XuanVuBui'
+email: tk1cntt@gmail.com
+phone: +84989896118
+github: tk1cntt
+twitter: '@tk1cntt'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
