@@ -1,58 +1,41 @@
 - experience:
-  role: Solution Architecture
-  time: 2016 - Present
-  company: FPT Software
+  role: Android Developer, React Native Developer
+  time: 2017 - Present
+  company: Spectos Asia
   details: "
-Responsible for the development of the technology solutions and mapping the
-business requirements to systems/technical requirements to ensure they are in line with the enterprise architectural plan. <br/>
-• Review, interpret and respond to detailed business requirements specifications to ensure alignment between customer expectations and current or future capability<br/>
-• Provide input to the strategic direction of technology investments to assist in the development of the enterprise architecture<br/>
-• Within the agreed enterprise architecture, define and design technology solutions to assist the business in meeting their business objectives<br/>
-• Develop, test and implement technology solutions and report on delivery commitments to ensure solutions are implemented as expected<br/>
+• Create and develop mobile application as required by the company.<br/>
+• Deploy application for users.<br/>
   "
 - experience:
-  role: Project Manager
-  time: 2012 - 2015
-  company: FPT Software
+  role: Leader, Android Developer
+  time: 2016 - 2017
+  company: AltPlus 
   details: "
-• Planning for project preparation, deploying phases<br/>
-• Managing total projects and keep the projects on process and quality<br/>
-• Ensuring project handover an acceptance stages to meet deadline and quality<br/>
-• Review and evaluation of the results achieved<br/>
-• Identifying and managing projects’ risky situations<br/>
-• Managing, Coaching and Developing project teammembers<br/>
-• Co­ordinating with customers, partners in projects<br/>
-  "
-- experience:
-  role: Developer
-  time: 2008 - 2012
-  company: Bluesear Viet Nam
-  details: "
-• Web design based on Struts Framework, Spring, iBatis, Hibernate<br/>
-- SMS Education Project<br/>
-- Content Management for SkyMusik.<br/>
-- Wap portal<br/>
-- Report<br/>
+• Manage, plan team, report work with project manager, customer, packing product for release<br/>
+• Define and implement solutions for android application client for a socical network system about sharing picture album<br/>
+• Implement core functions of project such as register, login application with social, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture<br/>
+• Implement core functions of project such as register, login application with google, facebook, line, yahoo, twitter account, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture<br/>
 • System Enterprise using Spring Framework with generate source by Spring Roo and many advance technology by Spring Source<br/>
-• Understanding the basics of Oracle database management.<br/>
-• Deploying services on the webservice: JAX-WS and JAX-RPC<br/>
-• Build client to automatically send information to partners via HTTP, SOAP, ....<br/>
-• Building Monitor system monitoring and warning errors for GW<br/>
-• Develop web site statistics, data entry application for SMS services<br/>
-• SMS deployment scenarios.<br/>
-• Programming J2ME applications on mobile. Build framework for mobile<br/>
-- Football Guide<br/>
-- Karaoke on Mobile<br/>
-- Color SMS<br/>
-- Millionaire Mobile<br/>
-- .....<br/>
-• Applications programming through SMS on mobile.<br/>
-• Develop internal PBX systems based on Asterisk.<br/>
-• Building SMS Gateway system to deploy services on the value of 8x77, 6x66, 6x04, 9x91<br/>
-• Building systems based on Java SMPP SMS GW http://opensmpp.logica.com Library<br/>
-• Deploying applications built for partners<br/>
-• Experienced programmers to use Devexpress Control build application:<br/>
-- Manager Hotel System<br/>
-• Experienced programmers to use Spring.NET, NHibernate:<br/>
-- Website http://doden.giaitri24.vn<br/>
+  "
+- experience:
+  role: Leader, Android Developer
+  time: 2013 - 2016
+  company: Fpt Software 
+  details: "
+• Manage, plan team, report work with project manager, customer, packing product for release<br/>
+• Developing application for Android devices is read barcodes of products, managing products by barcode during shipping</br>
+• Make webservice description document, design and implement sqlite database for application</br>
+• Implement core functions for managing products status syn beetween clients and cloud</br>
+• Use google analytics service for tracking, report actions in application</br>
+  "
+- experience:
+  role: Web Developer
+  time: 2013
+  company: Viettel Telecom
+  details: "
+• Maintain and implement new functions for online purchase system with agents Viettel. It allows the agent purchasing items. </br>
+• Maintain and fix bug in the online payment system for customer Viettel.<br/>
+• Implement new function and maintain wapsite for bankplus system.<br/>
+• Implement new functions, fix bug on backend server base on struts framework.</br>
+• Implement new functions and maintain a wap application has role is connecting to the back-end server and show all available items for agent to make an order.</br>
   "

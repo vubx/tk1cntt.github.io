@@ -1,14 +1,14 @@
 intro: "My Project"
 projects:
   - project:
-    title: LandExp
-    link: "http://tinvang.com.vn"
-    tagline: "Frontend: reactjs, css, html, nodejs. Backend: Spring framework. Hosting at AWS"
+    title: FeedbackStr Kiosk
+    link: ""
+    tagline: "Android app. With app you can conduct your surveys offline even there is no internet connection. Your data will be synchronized as soon as you are online again."
   - project:
-    title: Kanji Master
-    link: "https://github.com/KantanGroup/KanjiMaster/tree/lite-version"
-    tagline: "ReactNative app. For learning Japanese"
+    title: PinCity 
+    link: ""
+    tagline: "ReactNative app. Support the city more better by creating the reports about place that resident has arrived."
   - project:
-    title: Top app trends
-    link: "https://github.com/KantanGroup/zuzu-sites/tree/topapptrends"
-    tagline: "Frontend: reactjs, css, html, nodejs. Backend: Spring framework, Apache Solr. Top app trends in the world."
+    title: Sns Board
+    link: ""
+    tagline: "Android app. Media social application, you can make picture album with some effect and sharing each other."
