@@ -3,40 +3,40 @@
   level: 99%
 - skill:
   name: Spring Framework
-  level: 99%
+  level: 60%
 - skill:
   name: Android
   level: 99%
 - skill:
   name: Javascript/CSS/HTML
-  level: 95%
+  level: 50%
 - skill:
   name: Nodejs
-  level: 95%
+  level: 10%
 - skill:
   name: ReactJS/React-Native
-  level: 95%
-- skill:
-  name: TypeScript
-  level: 95%
-- skill:
-  name: C++
-  level: 65%
-- skill:
-  name: Python
   level: 70%
 - skill:
+  name: TypeScript
+  level: 0%
+- skill:
+  name: C++
+  level: 30%
+- skill:
+  name: Python
+  level: 0%
+- skill:
   name: Ruby
-  level: 65%
+  level: 0%
 - skill:
   name: PHP
-  level: 80%
+  level: 10%
 - skill:
   name: AWS/Cloud Computing Services
-  level: 90%
+  level: 0%
 - skill:
   name: Linux Administrator
-  level: 90%
+  level: 40%
 - skill:
   name: MySQL, SQLServer
-  level: 80%
+  level: 40%
