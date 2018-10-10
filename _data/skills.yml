@@ -2,8 +2,14 @@
   name: Java
   level: 99%
 - skill:
+  name: Kotlin
+  level: 30%
+- skill:
   name: Spring Framework
-  level: 60%
+  level: 50%
+- skill:
+  name: Struts Framework
+  level: 50%
 - skill:
   name: Android
   level: 99%
@@ -11,32 +17,14 @@
   name: Javascript/CSS/HTML
   level: 50%
 - skill:
-  name: Nodejs
-  level: 10%
-- skill:
   name: ReactJS/React-Native
   level: 70%
-- skill:
-  name: TypeScript
-  level: 0%
 - skill:
   name: C++
   level: 30%
 - skill:
-  name: Python
-  level: 0%
-- skill:
-  name: Ruby
-  level: 0%
-- skill:
-  name: PHP
-  level: 10%
-- skill:
-  name: AWS/Cloud Computing Services
-  level: 0%
-- skill:
   name: Linux Administrator
   level: 40%
 - skill:
-  name: MySQL, SQLServer
-  level: 40%
+  name: MySQL, Oracle SQL
+  level: 50%
