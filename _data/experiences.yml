@@ -4,6 +4,9 @@
   company: Spectos Asia
   details: "
 • Create and develop mobile application as required by the company.<br/>
+• Developing application for android devices using Android SDK to conduct the surveys offline and will be synchronized as soon as the internet is online again.<br/>
+• Developing application for mobile using React Native. Using the application, users can create reports on the places they have been to.<br/>
+• Use Firebase service for messaging and crash reporting.</br>
 • Deploy application for users.<br/>
   "
 - experience:
@@ -11,22 +14,21 @@
   time: 2016 - 2017
   company: AltPlus 
   details: "
-• Manage, plan team, report work with project manager, customer, packing product for release<br/>
-• Define and implement solutions for android application client for a socical network system about sharing picture album<br/>
-• Implement core functions of project such as register, login application with social, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture<br/>
-• Implement core functions of project such as register, login application with google, facebook, line, yahoo, twitter account, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture<br/>
-• System Enterprise using Spring Framework with generate source by Spring Roo and many advance technology by Spring Source<br/>
+• Manage, plan team, report work with project manager, customer, packing product for release.<br/>
+• Define and implement solutions for android application client for a socical network system about sharing picture album.<br/>
+• Implement core functions of project such as register, login application with social, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture.<br/>
+• Implement core functions of project such as register, login application with google, facebook, line, yahoo, twitter account, call webservice, download, upload pictures to cloud, edit picture, handwriting, add sticker on picture, make albums from picture.<br/>
   "
 - experience:
   role: Leader, Android Developer
   time: 2013 - 2016
   company: Fpt Software 
   details: "
-• Manage, plan team, report work with project manager, customer, packing product for release<br/>
-• Developing application for Android devices is read barcodes of products, managing products by barcode during shipping</br>
-• Make webservice description document, design and implement sqlite database for application</br>
-• Implement core functions for managing products status syn beetween clients and cloud</br>
-• Use google analytics service for tracking, report actions in application</br>
+• Manage, plan team, report work with project manager, customer, packing product for release.<br/>
+• Developing application for Android devices is read barcodes of products, managing products by barcode during shipping.</br>
+• Make webservice description document, design and implement sqlite database for application.</br>
+• Implement core functions for managing products status syn beetween clients and cloud.</br>
+• Use google analytics service for tracking, report actions in application.</br>
   "
 - experience:
   role: Web Developer
